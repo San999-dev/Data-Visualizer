@@ -1,4 +1,5 @@
 📊 Data Visualizer
+
 🔹 Overview
 
 This project is a Python-based data visualization tool.
@@ -9,7 +10,7 @@ All plots are saved automatically into a plots/ folder.
 
 Clone this repository:
 
-git clone https://github.com/your-username/data-visualizer.git
+git clone https://github.com/San999-dev/data-visualizer.git
 cd data-visualizer
 
 
